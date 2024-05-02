@@ -17,12 +17,7 @@ I'm a  based in chennai.
   - LinkedIn: [Your LinkedIn Profile](http://linkedin.com/in/rajendra-prasath-kamaraj-07b84b279).
 - 😄 Pronouns: - He/Him.
 - ⚡ Fun fact: 
-- Watching stand-up comedy specials and live shows
-  - Practicing my best impressions and comedic timing
-  - Writing and performing humorous sketches or skits with friends
-  - Hosting movie nights featuring classic comedies and hilarious sitcoms
-  - Participating in improv comedy workshops or classes.
-
+  None
 > [!IMPORTANT]
 > Vital information required for non-IT individuals to attain success in transitioning to IT roles.
 
@@ -55,18 +50,6 @@ I'm a  based in chennai.
   <img width="12" />
 </div>
 
-### Languages & Frameworks
-
-![HTML](https://img.shields.io/badge/HTML-Expert-brightgreen)
-![CSS](https://img.shields.io/badge/CSS-Expert-brightgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Intermediate-yellow)
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![Django](https://img.shields.io/badge/Django-Expert-brightgreen)
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-Expert-brightgreen)
@@ -90,32 +73,17 @@ I'm a  based in chennai.
 ###
 
 ## Hobbies
-1. Watching anime[^1]
-2. Creating addictive games using JavaScript and Python[^2]
-3. Riding bikes[^3]
-4. Chilling with my brother[^4]
-5. Reading books (novels)[^5]
-6. Learning new things[^6]
-[^1]: I enjoy immersing myself in the captivating worlds and engaging storylines of anime series.
-[^2]: I love designing and developing games that captivate players and provide them with hours of entertainment. Using JavaScript and Python allows me to bring my creative ideas to life and challenge myself with new coding techniques and game mechanics.
-[^3]: Riding bikes allows me to explore new places, stay active, and enjoy the beauty of nature while experiencing the thrill of the ride.
-[^4]: Spending quality time with my brother is always enjoyable. Whether it's watching movies, playing games, or just having meaningful conversations, these moments create lasting memories and strengthen our bond.
-[^5]: I enjoy diving into the captivating worlds and rich narratives found in novels. Reading allows me to escape reality and explore new perspectives, making it one of my favorite pastimes.
-[^6]: I have a passion for continuous learning and enjoy exploring new topics and acquiring new skills. Engaging in lifelong learning keeps me curious, adaptable, and intellectually stimulated.
+1. Riding bikes[^1]
+2. Reading books (novels)[^2]
+3. Learning new things[^3]
+[^1]: Riding bikes allows me to explore new places, stay active, and enjoy the beauty of nature while experiencing the thrill of the ride.
+[^2]: I enjoy diving into the captivating worlds and rich narratives found in novels. Reading allows me to escape reality and explore new perspectives, making it one of my favorite pastimes.
+[^3]: I have a passion for continuous learning and enjoy exploring new topics and acquiring new skills. Engaging in lifelong learning keeps me curious, adaptable, and intellectually stimulated.
 
 > [!TIP]
 > It's easier for me to understand and handle everything because of my experience in managing non-IT company processes.
 
 ## Motivation:
-> "Life goes on, with or without you..."
-
-> **- Goku**
-
->> "The next generation should take charge."
-
-> **- Monkey-D-Luffy**
->> "If you don't take risks, you can't create a future."
-
 > **- Myself**
 >> "Don't say no one likes me! Just say there is no one like me.....!"
 <!-- [!CAUTION]
@@ -140,11 +108,5 @@ Potential positive outcomes resulting from taking proactive action. -->
 - [ ] IntelliJ IDEA, Eclipse
 <!-- [!WARNING]
 Urgent reminder to prioritize life and its precious moments due to its fleeting nature. -->
-<details>
-  <summary>Big 3 anime</summary>
-- <kbd>DRAGON BALL</kbd>
-- <kbd>ONE PIECE</kbd>
-- <kbd>NARUTO</kbd>
-</details>
 <!-- [!NOTE]
 I enjoy incorporating elements of anime and gaming into my professional style. -->
