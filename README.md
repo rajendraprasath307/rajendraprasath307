@@ -4,8 +4,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rajendraprasath307)
 I'm a  based in chennai.
 - 🌱 I’m currently learning 
-- React - Python Libraries: Flask, Pandas, NumPy
-  - Cloud Computing: AWS - Mobile App Development: Flutter.
 - 💬 Ask me about 
   - Web Development: HTML, CSS, JavaScript, Bootstrap.
   - Python Programming: Django.
