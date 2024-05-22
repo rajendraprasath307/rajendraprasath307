@@ -10,12 +10,10 @@ I'm a  based in chennai.
   - Version Control: Git, GitHub.
   - RESTful APIs- Database Management: MYSQL.
 - 📫 How to reach me:
-  
+
   - Email:rajendraprasath307@gmail.com
   - LinkedIn: [Your LinkedIn Profile](http://linkedin.com/in/rajendra-prasath-kamaraj-07b84b279).
 - 😄 Pronouns: - He/Him.
-- ⚡ Fun fact: 
-  None
 > [!IMPORTANT]
 > Vital information required for non-IT individuals to attain success in transitioning to IT roles.
 
@@ -58,8 +56,6 @@ I'm a  based in chennai.
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
 ## Hobbies
 1. Riding bikes[^1]
 2. Reading books (novels)[^2]
@@ -83,18 +79,17 @@ Potential positive outcomes resulting from taking proactive action. -->
 - [ ] Join coding communities and forums for support and advice
 ## Skills:
 ### Languages & Frameworks:
-- [x] HTML, CSS, JavaScript, Bootstrap, Python, Django, React
-- [ ] Angular, Vue.js, TypeScript
+- [x] HTML, CSS, JavaScript, Bootstrap, Python, Django
+- [ ] Angular, React
 ### Frontend Development:
-- [x] HTML5, CSS3, Responsive Design, Bootstrap, Materialize
-- [ ] CSS Preprocessors (Sass, Less), Frontend Build Tools (Webpack, Gulp)
+- [x] HTML5, CSS3, Responsive Design, Bootstrap
+- [ ] CSS Preprocessors (Sass, Less)
 ### Backend Development:
-- [x] Node.js, Express.js, RESTful APIs
+- [x] Node.js, RESTful APIs
 - [ ] Microservices Architecture
 ### IDEs & Tools:
 - [x] Visual Studio Code, PyCharm, Git, GitHub, Postman
 - [ ] IntelliJ IDEA, Eclipse
-<!-- [!WARNING]
-Urgent reminder to prioritize life and its precious moments due to its fleeting nature. -->
+
 <!-- [!NOTE]
 I enjoy incorporating elements of anime and gaming into my professional style. -->
