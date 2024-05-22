@@ -51,16 +51,6 @@ I'm a  based in chennai.
 </div>
 
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-Expert-brightgreen)
-![GitHub](https://img.shields.io/badge/GitHub-Expert-brightgreen)
-![Postman](https://img.shields.io/badge/Postman-Expert-brightgreen)
-![VS Code](https://img.shields.io/badge/VS%20Code-Expert-brightgreen)
-![PyCharm](https://img.shields.io/badge/PyCharm-Expert-brightgreen)
-![MySQL](https://img.shields.io/badge/MySQL-Expert-brightgreen)
-![REST API](https://img.shields.io/badge/REST%20API-Intermediate-yellow)
-![Microservices](https://img.shields.io/badge/Microservices-Intermediate-yellow)
-
 ### Social Badges
 
 <div align="left">
