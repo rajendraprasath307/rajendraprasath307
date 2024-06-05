@@ -56,6 +56,9 @@ I'm a  based in chennai.
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+<!-- [!NOTE]
+I enjoy incorporating elements of anime and gaming into my professional style. -->
+
 ## Hobbies
 1. Riding bikes[^1]
 2. Reading books (novels)[^2]
@@ -72,24 +75,6 @@ I'm a  based in chennai.
 >> "Don't say no one likes me! Just say there is no one like me.....!"
 <!-- [!CAUTION]
 Potential positive outcomes resulting from taking proactive action. -->
-## Tasks:
-- [x] Learn basic HTML and CSS
-- [x] Familiarize yourself with version control using Git
-- [ ] Practice problem-solving skills with online coding platforms
-- [ ] Join coding communities and forums for support and advice
-## Skills:
-### Languages & Frameworks:
-- [x] HTML, CSS, JavaScript, Bootstrap, Python, Django
-- [ ] Angular, React
-### Frontend Development:
-- [x] HTML5, CSS3, Responsive Design, Bootstrap
-- [ ] CSS Preprocessors (Sass, Less)
-### Backend Development:
-- [x] Node.js, RESTful APIs
-- [ ] Microservices Architecture
-### IDEs & Tools:
-- [x] Visual Studio Code, PyCharm, Git, GitHub, Postman
-- [ ] IntelliJ IDEA, Eclipse
 
-<!-- [!NOTE]
-I enjoy incorporating elements of anime and gaming into my professional style. -->
+
+
